@@ -1,0 +1,9 @@
+haystack-ai
+fastapi
+uvicorn[standard]
+chromadb
+requests
+
+pypdf
+
+python-multipart
